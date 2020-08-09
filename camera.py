@@ -1,3 +1,6 @@
+#taken from
+#https://towardsdatascience.com/how-to-deploy-a-pre-trained-keras-model-with-opencv-and-flask-86c9dab76a9c
+
 from __future__ import division
 import os
 import cv2
