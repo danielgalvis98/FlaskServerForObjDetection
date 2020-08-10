@@ -1,0 +1,7 @@
+follow tutorial->
+https://medium.com/@marklabinski/installing-tensorflow-object-detection-api-on-windows-10-7a4eb83e1e7b
+work with tf==1.14
+
+then install flask
+then set FLASK_APP=app.py
+then flask run
